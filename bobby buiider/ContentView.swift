@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView: View { //test
     var body: some View {
         ZStack {
             StickMan()
