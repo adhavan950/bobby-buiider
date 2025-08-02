@@ -1,3 +1,13 @@
+//
+//  EmojiView.swift
+//  bobby buiider
+//
+//  Created by Adam Zafir on 8/2/25.
+//
+
+import SwiftUICore
+
+
 struct EmojiView: View {
     let symbol: String
     let size: CGFloat
